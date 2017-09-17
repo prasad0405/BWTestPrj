@@ -1,0 +1,2 @@
+# BWTestPrj
+Smoke Test project
