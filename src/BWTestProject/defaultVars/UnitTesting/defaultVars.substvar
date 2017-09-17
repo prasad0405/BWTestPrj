@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>HttpConnectionLocation-1</name>
+			<value>/Processes/HTTPConnectionAsGV/HTTPConnection-6666.sharedhttp</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1505661733198</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>HttpConnectionLocation-2</name>
+			<value>/Processes/HTTPConnectionAsGV/HTTPSConnection-6667.sharedhttp</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1505661733421</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>JDBCConnection</name>
+			<value>/Processes/HTTPConnectionAsGV/</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1505661733617</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>

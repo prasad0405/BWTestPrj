@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository:repository xmlns:Repository="http://www.tibco.com/xmlns/repo/types/2002">
+    <folder resourceType="ae.designerfolder" name="Processes" propLocks="" allowUserToChangeIcon="false" sortContents="false" acceptsResources="true" allowDuplicates="false">
+        <description>This folder contains business processes and is the core folder of the project</description>
+        <fixedChildren/>
+    </folder>
+</Repository:repository>
