@@ -41,5 +41,7 @@
             </row>
         </HttpConnectionProperties>
         <Port>6666</Port>
+        <useSsl>true</useSsl>
+        <ns1:ssl xmlns:ns1="http://www.tibco.com/xmlns/aemeta/services/2002"/>
     </config>
 </ns0:httpSharedResource>
