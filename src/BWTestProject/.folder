@@ -39,13 +39,13 @@
             <property key="ae.palette.java.palette.version" value="5.12.0"/>
             <property key="wsdlresource.palette.version" value="5.12.0"/>
             <property key="aa.adapteradministrator.palette.version" value="5.3.0"/>
-            <property key="FileAdapter.palette.version" value="6.0.0.13"/>
-            <property key="turbo.palette.version" value="5.6.1"/>
             <property key="adb.palette.version" value="6.1.0.13"/>
-            <property key="ae.palette.mft.version" value="1.0.0"/>
+            <property key="turbo.palette.version" value="5.6.1"/>
+            <property key="FileAdapter.palette.version" value="6.0.0.13"/>
             <property key="ae.palette.xml.palette.version" value="5.12.0"/>
-            <property key="xref.palette.version" value="5.3.2.2"/>
+            <property key="ae.palette.mft.version" value="1.0.0"/>
             <property key="ae.palette.Policy.version" value="5.12.0"/>
+            <property key="xref.palette.version" value="5.3.2.2"/>
             <property key="projectName" value="BWTestProject"/>
             <property key="ae.palette.transaction.palette.version" value="5.12.0"/>
             <property key="ae.palette.copybookpalette.version" value="3.4.0.HF3"/>
